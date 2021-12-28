@@ -10,7 +10,7 @@ Searching the internet for a good desktop/mobile wallpaper you are in the right 
 + **Git users**
 
   ```bash
-  $ git clone https://github.com/Agneay/wallpaper.git 
+  $ git clone https://github.com/agneay/wallpaper.git 
 
 + **using AUR**
 
