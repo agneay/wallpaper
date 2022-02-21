@@ -1,7 +1,11 @@
 # wallpaper
 Searching the internet for a good desktop/mobile wallpaper you are in the right place
 
-
+![issues_open](https://img.shields.io/github/issues/agneay/wallpaper?style=for-the-badge)
+![license](https://img.shields.io/github/license/agneay/wallpaper?style=for-the-badge)
+![forks](https://img.shields.io/github/forks/agneay/wallpaper?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/agneay/wallpaper?style=for-the-badge)
+![maintained_yes_or_no](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
 
 > Note: this repository is constantly under development 
 
