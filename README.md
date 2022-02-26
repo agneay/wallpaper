@@ -1,4 +1,4 @@
-# wallpaper
+# wallpaper [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 Searching the internet for a good desktop/mobile wallpaper you are in the right place
 
 ![issues_open](https://img.shields.io/github/issues/agneay/wallpaper?style=for-the-badge)
@@ -14,7 +14,8 @@ Searching the internet for a good desktop/mobile wallpaper you are in the right 
   ```bash
   $ git clone https://github.com/agneay/wallpaper.git 
 
-+ **using Universal Installer**
++ **using Universal Installer** [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
  *For using this  installer python3 should be installed*
 
   > Universal installer provides support for only windows and linux  and does not provide support mac os as of now 
