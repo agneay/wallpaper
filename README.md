@@ -14,24 +14,26 @@ Searching the internet for a good desktop/mobile wallpaper you are in the right 
   ```bash
   $ git clone https://github.com/agneay/wallpaper.git 
 
-+ **using Universal Installer** [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
++ **Linux Users**
+  first clone the repo
 
- *For using this  installer python3 should be installed*
-
-  > Universal installer provides support for only windows and linux  and does not provide support mac os as of now 
-
-  first clone the repository using 
-  ```bash 
-  git clone https://github.com/agneay/wallpaper.git 
-  ```
-  then navigate into the directory using
   ```bash
-  cd wallpaper
+  $ git clone https://github.com/agneay/wallpaper.git 
   ```
-  and finally run the python file using 
+
+  then give executable permissions to install.sh file by
+
   ```bash
-  python universal_installer.py 
+  chmod +x install.sh
   ```
+
+  run the file by 
+
+  ```bash
+  ./install.sh
+  ```
+
+  if prompted type in your sudo password
 
 + **using AUR**
 
