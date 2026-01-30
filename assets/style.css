@@ -1,0 +1,16 @@
+body {
+    font-family: system-ui, sans-serif;
+    background: #0f0f0f;
+    color: #eee;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 12px;
+}
+
+img {
+    width: 100%;
+    border-radius: 8px;
+}
