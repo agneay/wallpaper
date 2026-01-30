@@ -7,6 +7,9 @@ Searching the internet for a good desktop/mobile wallpaper you are in the right 
 ![stars](https://img.shields.io/github/stars/agneay/wallpaper?style=for-the-badge)
 ![maintained_yes_or_no](https://img.shields.io/badge/maintained-yes-green?style=for-the-badge)
 
+## Preview
+You can preview all the wallpapers here: https://agneay.tech/wallpaper/
+
 ## Installation
 
 + **Git users**
